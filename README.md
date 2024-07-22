@@ -18,14 +18,14 @@ Upgrade your Discord with **Observer** *coming soon*!
 - **Channel Flexibility:** Once the **observer** channel is created, you have the freedom to modify it however you see fit, without any limitations.
 
 
-## Why Choose Our Bot?
-- **No Setup Needed:** Just invite the bot. It automatically creates a log channel.
-- **Silent Operation:** Runs quietly in the background, sends no messages in public channels.
+## Why Choose Observer?
+- **No Setup Needed:** Just invite the bot. It automatically creates a log channel and begins reporting.
 - **Human Focused:** Ignores other bots, keeping logs clean and relevant.
+- **Privacy:** This bot never stores any member information on our servers. It only retains the server ID and channel ID for reference after restarting. (Feel free to check the source code yourself.)
 
 ## How It Works:
-- **Automatic Log Channel Creation:** Ensures a dedicated log channel in every server.
-- **Real-Time Logging:** Instantly logs events with detailed, color-coded embeds.
+- **Automatic Report Channel** Ensures a dedicated report channel in every server.
+- **Real-Time Reporting:** Instantly reports events with detailed, color-coded embeds.
 - **Seamless Integration:** Requires no commands or configurations, it simply works.
 
 **Make managing your server simple. [Invite observer](https://discord.com/oauth2/authorize?client_id=1263290467232252037&permissions=8&integration_type=0&scope=bot) today and stay in the know.**
