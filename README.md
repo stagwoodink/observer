@@ -27,7 +27,7 @@ Observer carefully selects what to report, focusing only on the most essential a
 **Make managing your server simple. [Invite observer](https://discord.com/oauth2/authorize?client_id=1263290467232252037&permissions=8&integration_type=0&scope=bot) today and stay in the know.**
 
 ## Get Help
-If you're having any issues with Observer, join the Stagwood [Discord](http://stagwood.ink) for support and assistance. Your feedback is valuable!
+If you're having any issues with Observer, [join the Stagwood Discord](http://stagwood.ink) for support and assistance. Your feedback is valuable!
 
 ## Support The Project
 **Stagwood's Observer** will always be 100% free to use and open source, you will never be charged for extra features or support.
