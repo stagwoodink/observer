@@ -14,7 +14,7 @@ Upgrade your Discord with **Observer** *coming soon*!
 - **Message Monitoring:** Captures message edits and deletions.
 - **Attachment & Link Tracking:** Reports all shared media, links, and code snippets.
 - **Context & Navigation:** Observer provides detailed references, showing who performed actions and where they occurred. Whenever possible, it includes direct links to the channel and reported message, making moderation easier and more efficient.
-- **Agnostic Reporting:** **Observer** records all activities in its designated categories without judgment, allowing you and your team to decide on any necessary actions.
+- **Agnostic Reporting:** Records all activities in its designated categories without judgment, allowing you and your team to decide on any necessary actions.
 - **Channel Flexibility:** Once the **observer** channel is created, you have the freedom to modify it however you see fit, without any limitations.
 
 
