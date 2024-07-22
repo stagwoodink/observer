@@ -6,17 +6,21 @@ Keep an eye on your Discord server with **observer**. It logs key activities and
 Upgrade your Discord with **Observer** *coming soon*!
 
 ## Features:
-Observer carefully selects what to report, focusing only on the most essential activities to make moderation quick and efficient.
+**Observer** carefully selects what to report, focusing only on the most essential activities to make moderation quick and efficient. To avoid being redundant **observer** ignores most of what Discord's built in Audit Logs record, keeping **observers** reports clean and easy to reference.
 - **Member Updates:** Tracks changes in nicknames and usernames.
 - **Voice Activity:** Monitors voice channel usage.
 - **Population Updates:** Reports you when members join or leave.
 - **Moderation Alerts:** Logs bans and kicks with moderator details.
 - **Message Monitoring:** Captures message edits and deletions.
 - **Attachment & Link Tracking:** Reports all shared media, links, and code snippets.
+- **Context & Navigation:** Observer provides detailed references, showing who performed actions and where they occurred. Whenever possible, it includes direct links to the channel and reported message, making moderation easier and more efficient.
+- **Agnostic Reporting:** **Observer** records all activities in its designated categories without judgment, allowing you and your team to decide on any necessary actions.
+- **Channel Flexibility:** Once the **observer** channel is created, you have the freedom to modify it however you see fit, without any limitations.
+
 
 ## Why Choose Our Bot?
 - **No Setup Needed:** Just invite the bot. It automatically creates a log channel.
-- **Silent Operation:** Runs quietly in the background.
+- **Silent Operation:** Runs quietly in the background, sends no messages in public channels.
 - **Human Focused:** Ignores other bots, keeping logs clean and relevant.
 
 ## How It Works:
