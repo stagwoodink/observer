@@ -9,7 +9,7 @@ Upgrade your Discord with **Observer** *coming soon*!
 **Observer** carefully selects what to report, focusing only on the most essential activities to make moderation quick and efficient. To avoid being redundant **observer** ignores most of what Discord's built in Audit Logs record, keeping **observers** reports clean and easy to reference.
 - **Member Updates:** Tracks changes in nicknames and usernames.
 - **Voice Activity:** Monitors voice channel usage.
-- **Population Updates:** Reports you when members join or leave.
+- **Population Updates:** Reports when members join or leave the server.
 - **Moderation Alerts:** Logs bans and kicks with moderator details.
 - **Message Monitoring:** Captures message edits and deletions.
 - **Attachment & Link Tracking:** Reports all shared media, links, and code snippets.
