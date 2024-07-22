@@ -18,9 +18,13 @@ LOG_CHANNEL_NAME = 'observer'
 
 # Embed colors
 COLORS = {
-    'yellow': 0xFAA61A, 'blue': 0x7289DA, 'purple': 0x9B59B6,
-    'red': 0xF04747, 'green': 0x43B581, 'orange': 0xFFA500,  # Orange for editing
-    'burnt_orange': 0xCC5500,  # Burnt orange for deletion
+    'yellow': 0xFAA61A, # Yellow for user-info change reports
+    'blue': 0x7289DA,  # Blue for joining a voice channel reports
+    'purple': 0x9B59B6,  # Purple for leaving the voice channel reports
+    'red': 0xF04747,  # Red for leaving the server reports
+    'green': 0x43B581,  # Green for joining the server reports
+    'orange': 0xFFA500,  # Orange for editing reports
+    'burnt_orange': 0xCC5500,  # Burnt orange for message deletion reports
     'rich_pink': 0xFF1493,  # Rich pink for attachment reports
     'white': 0xFFFFFF,  # White for link reports
     'black': 0x000000  # Black for code block reports
@@ -28,7 +32,7 @@ COLORS = {
 
 # Bot setup
 intents = discord.Intents.all()
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(intents=intents)
 
 def sanitize_content(content):
     return re.sub(r'[^a-zA-Z0-9\s.,!?@#$%^&*()_+=\\[\\]{};\'":<>?/🡫]', '', content).lower()
