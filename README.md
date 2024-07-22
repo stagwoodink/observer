@@ -1,5 +1,5 @@
 # Observer
-![An icon of an eye and the word Observer](bots_brand_banner.png)
+![An icon of an eye and the word Observer](banner.png)
 ## Observer - Enhanced Activity Logging
 **Observer** works diligently in the background, meticulously logging key moments and actions within the server. It creates a detailed registry of your community's activity for future insight, ensuring that no important event goes unnoticed.
 
