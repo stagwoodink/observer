@@ -24,7 +24,7 @@ Observer carefully selects what to report, focusing only on the most essential a
 - **Real-Time Logging:** Instantly logs events with detailed, color-coded embeds.
 - **Seamless Integration:** Requires no commands or configurations, it simply works.
 
-**Make managing your server simple. Get [invite observer](https://discord.com/oauth2/authorize?client_id=1263290467232252037&permissions=8&integration_type=0&scope=bot) today and stay in the know.**
+**Make managing your server simple. [Invite observer](https://discord.com/oauth2/authorize?client_id=1263290467232252037&permissions=8&integration_type=0&scope=bot) today and stay in the know.**
 
 ## Get Help
 If you're having any issues with Observer, join the Stagwood [Discord](http://stagwood.ink) for support and assistance. Your feedback is valuable!
