@@ -32,7 +32,7 @@ COLORS = {
 
 # Bot setup
 intents = discord.Intents.all()
-bot = commands.Bot(intents=intents)
+bot = commands.Bot(command_prefix="!", intents=intents)
 
 def sanitize_content(content):
     return re.sub(r'[^a-zA-Z0-9\s.,!?@#$%^&*()_+=\\[\\]{};\'":<>?/🡫]', '', content).lower()
